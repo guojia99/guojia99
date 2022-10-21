@@ -1,10 +1,13 @@
+### Hi there 👋
 - 👋 Hi, I’m @guojia99
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-guojia99/guojia99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here are some quick things about me:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guojia99&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guojia99&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guojia99&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guojia99&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guojia99&theme=github)
