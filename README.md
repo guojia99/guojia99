@@ -23,12 +23,18 @@
 <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guojia99&theme=dracula&show_icons=true" alt="guojia" style="zoom:100%;" /></center>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=guojia99&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=guojia99&theme=dracula&no-frame=true&row=1&&margin-w=30&no-bg=true">
 
 # Look My Project
 
-<center><img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=go-tables&show_owner=true&bg_color=35,000000,904e95&title_color=fff&text_color=fff&show_icons=true" alt="go-tables" style="zoom:100%;" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=go-flock&show_owner=true&bg_color=35,000000,904e95&title_color=fff&text_color=fff" alt="go-flock" style="zoom:100%;" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=go-color&show_owner=true&bg_color=35,000000,904e95&title_color=fff&text_color=fff" alt="go-color" style="zoom:100%;" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=go-num&show_owner=true&bg_color=35,000000,904e95&title_color=fff&text_color=fff" alt="go-num" style="zoom:100%;" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=octopus&show_owner=true&bg_color=35,000000,904e95&title_color=fff&text_color=fff" alt="octopus" style="zoom:100%;" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=python&show_owner=true&bg_color=35,000000,904e95&title_color=fff&text_color=fff" alt="python" style="zoom:100%;" /></center>
+<center>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=go-tables&show_owner=true&theme=dracula" alt="go-tables" style="zoom:100%;" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=go-flock&show_owner=true&theme=dracula" alt="go-flock" style="zoom:100%;" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=go-color&show_owner=true&theme=dracula" alt="go-color" style="zoom:100%;" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=go-num&show_owner=true&theme=dracula" alt="go-num" style="zoom:100%;" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=octopus&show_owner=true&theme=dracula" alt="octopus" style="zoom:100%;" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guojia99&repo=python&show_owner=true&theme=dracula" alt="python" style="zoom:100%;" />
+</center>
 
 
 
