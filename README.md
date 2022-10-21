@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=1DEBF7FF&center=true&width=435&lines=Welcome+to+the+code+world+of+Guojia)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=000000&center=true&width=435&lines=Welcome+to+the+code+world+of+Guojia)
 
 <img src="./image/header.png" style="zoom:100%;" />
 
