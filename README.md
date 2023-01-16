@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=000000&center=true&width=435&lines=Welcome+to+the+code+world+of+Guojia" alt="guojia" style="zoom:100%;"/>
 </div>
-<img src="./img/header.png" style="zoom:100%;" />
+<img src="./image/header.png" style="zoom:100%;" />
 
 ---
 
@@ -77,5 +77,5 @@
 # Look me
 
 <pos align="center">
-<img src="./img/cat.gif" width="100">
+<img src="./image/cat.gif" width="100">
 <img src="https://profile-counter.glitch.me/guojia99/count.svg" style="zoom:200%;" />
