@@ -1,4 +1,4 @@
- <center><h1>郭泽嘉</h1></center>
+<center><h1>郭泽嘉</h1></center>
 
 <center> <b>15089512105</b> · <b>guojia99@foxmail.com</b> · <b>guojia999gzj</b> </center>
 
@@ -16,15 +16,15 @@
 
 ## 技能清单
 
-- `golang`  
+- `golang`
   - 熟练掌握 `go` 开发所需的语法、标准库、底层库等使用, 拥有相关源码分析与定位能力, 有协程、锁、上下文、原子性、协程池等并发开发经验, 熟练使用plugin插件和cgo的对接。
   - web及API相关库的开发 `go-gin/ go-zero / echo / gRPC`
-  - 云边计算相关开发   `k8s-client / kubeedge / promethus / quic / mqtt / beehive / cobra` 
+  - 云边计算相关开发   `k8s-client / kubeedge / promethus / quic / mqtt / beehive / cobra`
   - database相关开发  `gorm / sqlite / mysql / redis / mongo`
 - `python`
   - 掌握`py 2/3` 面向对象编程能力, 开发相关可维护、高复用的脚本与程序。
-  - `Django / flask` 开发,并掌握序列化器、模板、调度流等web开发。  
-  - `numpy / cv2 / pandas ...` 等各类常见库的使用。  
+  - `Django / flask` 开发,并掌握序列化器、模板、调度流等web开发。
+  - `numpy / cv2 / pandas ...` 等各类常见库的使用。
 - `linux`
   - 掌握各类命令行使用, `shell`脚本编写, 文件系统维护和`linux`开发经验。
   - `ffmpeg / 海康摄像头 / v4l2 / vlc` 等视频摄像使用与调度,并结合到编程中。
