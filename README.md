@@ -78,4 +78,4 @@
 
 <pos align="center">
 <img src="./image/cat.gif" width="100">
-<img src="https://profile-counter.glitch.me/guojia99/count.svg" style="zoom:200%;" />
+<img src="https://profile-counter.glitch.me/guojia99/Count.svg" style="zoom:200%;" />
