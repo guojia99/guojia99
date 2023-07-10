@@ -98,8 +98,6 @@
   - `项目负责`: 开发相应的接口，实现自动化测试。 
   - `技术要点`: `protobuf`、 `go-gin`、`grpc-server`
 
-
-
 <h3 style="display:inline">中国高校网络技术挑战赛（在校）</h3><p style="float:right;display:inline-block"> 2020.7 ~ 2021.9</p>
 
 ###### python 开发
