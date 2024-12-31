@@ -12,70 +12,47 @@
 - 👀 I’M interested in golang|python or operating system base.
 - 🌱 I’M currently learning golang..
 
-<div align="center">
-    <a href="https://github.com/guojia99">
-        <img src="https://github-readme-stats.vercel.app/callbackApi?username=guojia99&theme=dracula&show_icons=true"
-             alt="guojia" style="zoom:100%;"/>
-    </a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guojia99&layout=donut&theme=dracula)
 
-<div align="center">
-    <a href="https://github.com/guojia99">
-        <img height="200px"
-             src="https://github-readme-streak-stats.herokuapp.com/?user=guojia99&theme=dracula&show_icons=true"/>
-    </a>
-</div>
+![Guojia's GitHub stats](https://github-readme-stats.vercel.app/api?username=guojia99&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
 
-<div align="center">
-    <a href="https://github.com/guojia99">
-        <img src="https://server.dooboo.io/github-stats/guojia99" width="600"/>
-    </a>
-</div>
 
-<div align="center">
-    <a href="https://github.com/guojia99">
-        <img src="http://github-profile-summary-cards.vercel.app/callbackApi/cards/profile-details?username=guojia99&theme=dracula&show_icons=true"
-             alt="guojia" style="zoom:100%;"/>
-    </a>
-</div>
+![Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=guojia99&theme=dracula&show_icons=true)
 
-<div align="center">
-    <a href="https://github.com/guojia99">
-        <img src="https://github-profile-trophy.vercel.app/?username=guojia99&theme=dracula&no-frame=true&row=1&&margin-w=30&no-bg=true">
-    </a>
-</div>
+![profile trophy](https://github-profile-trophy.vercel.app/?username=guojia99&theme=dracula&no-frame=true&row=1&&margin-w=30&no-bg=true)
+
+
 
 # Look My Project
 
+
+
 <div align="center">
     <a href="https://github.com/guojia99/go-tables">
-        <img src="https://github-readme-stats.vercel.app/callbackApi/pin/?username=guojia99&repo=go-tables&show_owner=true&theme=dracula"
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=guojia99&repo=go-tables&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
              alt="go-tables" style="zoom:100%;"/>
     </a>
     <a href="https://github.com/guojia99/go-flock">
-        <img src="https://github-readme-stats.vercel.app/callbackApi/pin/?username=guojia99&repo=go-flock&show_owner=true&theme=dracula"
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=guojia99&repo=go-flock&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
              alt="go-flock" style="zoom:100%;"/>
     </a>
     <a href="https://github.com/guojia99/go-color">
-        <img src="https://github-readme-stats.vercel.app/callbackApi/pin/?username=guojia99&repo=go-color&show_owner=true&theme=dracula"
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=guojia99&repo=go-color&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
              alt="go-color" style="zoom:100%;"/>
     </a>
     <a href="https://github.com/guojia99/go-num">
-        <img src="https://github-readme-stats.vercel.app/callbackApi/pin/?username=guojia99&repo=go-num&show_owner=true&theme=dracula"
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=guojia99&repo=go-num&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
              alt="go-num" style="zoom:100%;"/>
     </a>
     <a href="https://github.com/guojia99/octopus">
-        <img src="https://github-readme-stats.vercel.app/callbackApi/pin/?username=guojia99&repo=octopus&show_owner=true&theme=dracula"
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=guojia99&repo=octopus&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
              alt="octopus" style="zoom:100%;"/>
-    </a>
-    <a href="https://github.com/guojia99/python">
-        <img src="https://github-readme-stats.vercel.app/callbackApi/pin/?username=guojia99&repo=python&show_owner=true&theme=dracula"
-             alt="python" style="zoom:100%;"/>
     </a>
 </div>
 
+
 # Look me
 
-<pos align="center">
+
 <img src="./image/cat.gif" width="100">
 <img src="https://profile-counter.glitch.me/guojia99/Count.svg" style="zoom:200%;" />

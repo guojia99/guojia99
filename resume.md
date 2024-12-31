@@ -2,55 +2,128 @@
 
 <center> <b>15089512105</b> · <b>guojia99@foxmail.com</b> · <b>guojia999gzj</b> </center>
 
-<center><h6>简历地址: <a>https://github.com/guojia99/guojia99/blob/main/resume.md</a></h6></center>
-
 ## 个人信息
 
-- 郭泽嘉 / 男 / 1999.4
-- 本科 / 广东科技学院 计算机系 `信息管理与信息系统` / `2021 毕业` / `GPA 4.41`
-- `专业学习`: 数据挖掘、机器学习、oracle、数据统计与数据提取。
-- 工作年限 `2.5年` / `2021.1 ~ 至今`
-- `Github`:  https://github.com/guojia99
-- 期望城市:   `深圳` /  `东莞` /  `广州` 
-- 定位: `go`/ `linux`
+- 郭泽嘉 / 男 / 1999-04
+- 本科 / `广东科技学院 计算机系` /  `信息管理与信息系统` / `2021-06毕业` 
+- 专业学习: `数据挖掘`、`机器学习`、`oracle`、`数据统计与数据提取`。
+- 工作年限 `4年` / `2021.1 ~ 至今`
+- `GitHub`:  `https://github.com/guojia99`
+- 期望城市:   `深圳` 
+- 定位: `golang`/ `python` / `linux` / `AI平台`
+- **预计入职时间**:  **`2025年-3月`**
 
 
 
 ## 技能清单
 
 - `golang`
-  -  `go` 开发所需的语法、标准库、底层库等使用, 拥有相关源码分析与定位能力, 有协程、锁、上下文、原子性、协程池等并发开发经验, 熟练使用`plugin插件`和`cgo`的对接。
-  -  web及API相关库的开发 `go-gin/ go-zero / echo / gRPC`
-  -  云边计算相关开发   `k8s-client / kubeedge / promethus / beehive / cobra / ssh-client`
-  -  database相关开发  `gorm / sqlite / mysql / redis / mongo`
-  -  图形相关: `go-image/ go-draw/ gg / imaging`
-  -  物联网相关： `quic / mqtt / gpio / Mo485`
-- `python`
-  - `py 2/3` 面向对象编程能力, 开发相关可维护、高复用的脚本与程序， 熟悉掌握大部分常用开发库。
-  - `Django / flask` 开发, 并掌握序列化器、模板、调度流等web开发。  
-- `linux`
-  - 掌握各类命令行使用, `shell`脚本编写, 文件系统维护和`linux`开发经验。
-  - `ffmpeg / 海康摄像头 / v4l2 / vlc` 等视频摄像使用与调度,并结合到编程中。
-  - `docker / containerd` 容器使用技术。
+  - 熟练使用go所需基础库及常见第三方库
+  - **web**: `go-gin` / `gozero` / `grpc` / `gorm` 
+  - **云计算**: `k8s-client` / `kubeedge` / `promethus` / `k8s` / `docker-client` / `kubeflow` / `gpu-operator`
+  - **图形**: `go-image` / `go-draw` / `gg` / `imaging` / `gocv`
+  - **物联网**:   `quic / mqtt / gpio / Mo485`
+- `python3`
+  - 数量掌握`python3`所需的语法、基础库和第三方库
+  - **AI**： `pytorch` / `transformers` / `deepspeed` / `tensorflow` / `megatorn` / `swift`
+  - **web**: `django` / `flask` / `fastapi` /`Tornado`
+  - **数据处理和可视化**： `numpy` / `pandas` / `matplotlib`
+  - **图形和计算机视觉**： `Pillow` / `pygram` / `OpenCV`
+- 数据库
+  - **关系型**: `mysql` / `sqlite` / `oracle`
+  - **非关系型**: `redis` / `mongo` /  `etcd`
+  - **时序**： `influxDb`
+
+- 前端
+  - 掌握`typescript`及有相关项目开发经验。
+  - **框架**： `react` / `ant-design` / `bootstrap` / `JQuery`
+
+
 - `其他 `
-  - 掌握 `rbmq / kafka` 等消息队列的使用与调度。
+  - `k8s`生态、虚拟机、容器等相关工具使用和调试。
   - 图像相关组成知识、科学计算、图像视觉处理算法和实际落地实现。
-  - 掌握数据制图、爬虫、数据分析能力。
+  - 数据制图、爬虫、数据分析能力。
+  - 一定AI模型训练、开发、部署等开发调试经验。
+  - 各类命令行使用, `shell`脚本编写, 文件系统维护和`linux`开发经验。
+  - `ffmpeg / 海康摄像头 / v4l2 / vlc` 等视频、摄像使用与调度,并结合到编程中。
 
 
 
 ## 开源作品
 
-- `go-table` (https://github.com/guojia99/go-tables) 支持任意可二维化数据输出序列化表格及自定义表格命令行输出库。
-- `go-flock` (https://github.com/guojia99/go-flock) 基于`linux`的`flock2`锁机制的文件锁封装库。
-- `go-color` (https://github.com/guojia99/go-color) 各类颜色类型转换的工具库。
-- `octopus` (https://github.com/guojia99/octopus) 基于最新的语言特性编写非主题性的工具库, 基于泛型和非泛型做不同的兼容编码。
+#### 参与贡献源码
+
+- `cubingchina`
+  - 链接: `https://github.com/CubingChina/cubingchina`
+  - 中国魔方赛事网站，粗饼网，`PHP实现`，用于魔方赛事报名和管理。
+
+#### 自我开发项目
+
+- `cubingPro`
+  - 链接: `https://github.com/guojia99/cubing.pro`
+  - 在线魔方赛事网站， `go - react前后端分离`， 用于在线魔方赛事。
+
+- `go-table` 
+  - 链接：`https://github.com/guojia99/go-tables`
+  - 支持任意可二维化数据输出序列化表格及自定义表格命令行输出库。
+
+- `my-cubing`
+  - 链接：`https://github.com/guojia99/my-cubing`
+  -  魔方成绩管理系统，后端采用go-Gin实现，前端采用react实现, 支持QQ机器人等指令操作等。
+
+- `go-flock`
+  - 链接：`https://github.com/guojia99/go-flock`
+  - 基于`linux`的`flock2`锁机制的文件锁封装库。
+
+- `go-color`
+  - 链接：`https://github.com/guojia99/go-color`
+  - 各类颜色类型转换的工具库。
+
+- `octopus`
+  - 链接：`https://github.com/guojia99/octopus`
+  - 基于最新的语言特性编写非主题性的工具库, 基于泛型和非泛型做不同的兼容编码。
+
+
 
 
 
 ## 工作经历与项目经验
 
-<h3 style="display:inline">广州机智云物联网科技有限公司</h3><p style="float:right;display:inline-block"> 2021.6 ~ 至今</p>
+<h3 style="display:inline">广州市品高软件股份有限公司</h3><p style="float:right;display:inline-block"> 2023.8 ~ 至今</p>
+
+###### 云架构后台开发工程师
+
+#### 工作描述
+
+- AI应用框架开发，AI底层框架、算法调研。
+- 云服务的基础设施、软件环境部署、容器编排等研发。
+- 系统集成架构软件开发， 底层操作接口开发，IaaS平台的后台服务、新功能、新特性研发。
+
+#### 项目经验
+
+- `Fast-Checkpoint`
+  - `项目简介`：该项目旨在针对在AI训练、推理等在检查点使用步骤的加速，基于`Cuda`、`锁定内存`、`共享内存`、`GPU显存拷贝`等机制，提高检查点的写入、获取，规范和兼容各类平台、常用第三方库的检查点格式。最终提供一个简易使用的第三方库，用于接入平台。
+  - `项目负责`：全部的代码研发、测试，负责关键技术的调研、设计与研发，负责部分技术论文的解读。
+  - `项目成果`:   实现了检查点保存提速3倍以上, 大模型检查点保存提速10倍以上，检查点加载提速50%以上。
+  - `技术要点`:  `torch`,  `Cuda`, `safetensors`, `pinMemory`
+- `AI-Wrapper`
+  - `项目简介`: 该项目用于提供通过简易配置，通过劫持用户训练脚本进行分布式训练，使得AI训练在平台上可快速部署执行，从而提高用户对AI训练的效率，同时通过容器检查等手段对训练过程中的训练生命周期进行控制，从而可在生命周期中执行其他操作。
+  - `项目负责`: 全部`python`端代码研发、测试，负责关键技术设计。
+  - `技术要点`: `torchrun`, `pytorchJob`, `kubeflow`
+
+- `Maritx 智算`
+  - `项目简介`:  智算是基于k8s生态的AI异构的算力平台, 集成国产、NVIDIA等GPU，混合算力，面向分布式并行计算、超算，服务于大模型算力的算力调度与部署等业务,  支持tf、torch等主流训练框架, 提供运维运营一体业务平台, 支持NCCL、Cuda等算力调度集成。
+  - `项目负责`: 负责基础设施环境搭建, 大模型的部署调试, 容器编排, 利用k8s的调度器、控制器、webHook等GPU的租户分配和调度等, 编写torch等训练和执行模型程序。
+  - `技术要点`: `k8s`, `Nvidia-GPU`, `torch`
+
+- `HCI 超融合`
+  - `项目简介`：超融合架构是软件定义数据中心的一种表现形式，是基于标准通用的硬件平台，通过软件定义实现计算、存储、网络融合，实现以虚拟化为中心的软件定义数据中心的软硬一体化IT基础架构.
+  - `项目负责`:  负责虚拟机、容器的生命周期管理，包括启关机、设备插拔、设备迁移、跨主机存储等底层API的研发。
+  - `技术要点`:  `kvm`, `libvirt`
+
+
+
+<h3 style="display:inline">广州机智云物联网科技有限公司</h3><p style="float:right;display:inline-block"> 2021.6 ~ 2023.8</p>
 
 ###### 云计算工程师
 
@@ -85,6 +158,8 @@
   - `项目负责`: 负责设备管理侧的Web服务开发, `影子服务 / 设备元数据服务 / 数据模型服务`, 并参与其他架构中其他服务的代码复查。
   - `技术要点`: `go-zero`
 
+
+
 <h3 style="display:inline">广州机智云物联网科技有限公司(实习)</h3><p style="float:right;display:inline-block"> 2021.1 ~ 2021.6</p>
 
 ###### python 实习生
@@ -97,6 +172,8 @@
   - `项目简介`: 用于边缘端网关中心维护子网的服务，管理设备信息和设备数据点、数据模型服务。
   - `项目负责`: 开发相应的接口，实现自动化测试。 
   - `技术要点`: `protobuf`、 `go-gin`、`grpc-server`
+
+
 
 <h3 style="display:inline">中国高校网络技术挑战赛（在校）</h3><p style="float:right;display:inline-block"> 2020.7 ~ 2021.9</p>
 
@@ -126,4 +203,5 @@
 
 ---
 
-- 更新时间: 2023/06/06
+- 更新时间: 2024/12/01
+
