@@ -12,12 +12,11 @@
 - 👀 I’M interested in golang|python or operating system base.
 - 🌱 I’M currently learning golang..
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guojia99&layout=donut&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojia99&layout=donut&theme=dracula" alt="Top Langs" style="zoom:147%;" />
 
-![Guojia's GitHub stats](https://github-readme-stats.vercel.app/api?username=guojia99&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=guojia99&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&count_private=true" alt="Guojia's GitHub stats" style="zoom:110%;" />
 
-
-![Github stats2](https://github-readme-streak-stats.herokuapp.com/?user=guojia99&theme=dracula&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guojia99&theme=dracula&show_icons=true" alt="Github stats2" style="zoom:105%;" />
 
 ![profile trophy](https://github-profile-trophy.vercel.app/?username=guojia99&theme=dracula&no-frame=true&row=1&&margin-w=30&no-bg=true)
 
@@ -28,6 +27,10 @@
 
 
 <div align="center">
+    <a href="https://github.com/guojia99/cubing-pro">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=guojia99&repo=cubing-pro&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
+             alt="go-tables" style="zoom:100%;"/>
+    </a>
     <a href="https://github.com/guojia99/go-tables">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=guojia99&repo=go-tables&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
              alt="go-tables" style="zoom:100%;"/>
@@ -51,8 +54,8 @@
 </div>
 
 
-# Look me
 
+# Look me
 
 <img src="./image/cat.gif" width="100">
 <img src="https://profile-counter.glitch.me/guojia99/Count.svg" style="zoom:200%;" />
