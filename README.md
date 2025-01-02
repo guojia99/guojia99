@@ -5,12 +5,28 @@
 
 ---
 
+
+
 <div align="center"> <h1>About Me</h1></div>
 <div align="center">Here are some quick things about me</div>
 
 - 👋 Hi, I’M @guojia99
 - 👀 I’M interested in golang|python or operating system base.
 - 🌱 I’M currently learning golang..
+
+
+
+## Tech Stack
+
+- 💻 &#160; ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=007396)![Python](https://img.shields.io/badge/-Golang-333333?style=flat&logo=python&logoColor=007396)![TS](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=FCC624)![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+  
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+- 🛢 &#160; ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)![ETCD](https://img.shields.io/badge/-Etcd-333333?style=flat&logo=etcd)![mongodb](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- 🔧  &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+
+
+## Look My Github Profile
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojia99&layout=donut&theme=dracula" alt="Top Langs" style="zoom:147%;" />
 
@@ -57,5 +73,10 @@
 
 # Look me
 
-<img src="./image/cat.gif" width="100">
+<img align="center" src="./image/cat.gif" width="100">
+
 <img src="https://profile-counter.glitch.me/guojia99/Count.svg" style="zoom:200%;" />
+
+
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
